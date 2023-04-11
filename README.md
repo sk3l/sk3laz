@@ -6,7 +6,7 @@
 - destroy deployment resource
 
 ## TODO
-- list all deployment resource groups
+- ~list all resource groups~
 - list all deployment resources
 - search deployments by
  - resource groups
