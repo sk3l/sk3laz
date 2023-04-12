@@ -2,7 +2,7 @@
 
 ## Current capabilities
 - create deployment resource
- - utilizes Azure Resource Manager JSON template ((see here)[https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/template-specs?tabs=azure-powershell])
+ - utilizes Azure Resource Manager JSON template ([see here](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/template-specs?tabs=azure-powershell))
 - destroy deployment resource
 
 ## TODO
