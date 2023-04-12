@@ -7,7 +7,7 @@
 
 ## TODO
 - ~list all resource groups~
-- list all deployment resources
+- ~list all resources~
 - search deployments by
  - resource groups
  - resource name
